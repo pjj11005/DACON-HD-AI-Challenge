@@ -22,7 +22,7 @@
 
 ## 대회 결과
 
-| Submission | CV MAE | Public MAE | Rank | Private MAE | Rank | Total |
-| --- | --- | --- | --- | --- | --- | --- |
-| 진깃 solution | - | 44.11155 | 64 | 44.018 | 57 | 330 |
-| 광운인 solution | 37.8968 | 44.2716 | - | - | - | 330 |
+| Submission | CV MAE | Public MAE | Rank | Private MAE | Rank |
+| --- | --- | --- | --- | --- | --- |
+| 진깃 solution | - | 44.11155 | 64 / 349| 44.018 | 57 /330|
+| 광운인 solution | 37.8968 | 44.2716 | - | - | - |
